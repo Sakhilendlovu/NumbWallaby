@@ -1,2 +1,5 @@
-# Google App Engine generated folder
-appengine-generated/
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
